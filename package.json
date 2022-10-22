@@ -1,0 +1,31 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiayan/mini-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoxiayan/mini-webpack/issues"
+  },
+  "homepage": "https://github.com/xiaoxiayan/mini-webpack#readme",
+  "dependencies": {
+    "@babel/core": "^7.19.6",
+    "@babel/parser": "^7.19.6",
+    "@babel/traverse": "^7.19.6",
+    "babel-preset-env": "^1.7.0",
+    "ejs": "^3.1.8"
+  }
+}
